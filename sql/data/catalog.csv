@@ -1,0 +1,101 @@
+﻿ID,Category,Quantity,SKU,Image,Retail_Price,Landing_Cost_Per_Unit
+1,Books & Stationery,47,SKU0001,https://dummyimage.com/358x862,156.29,178.15
+2,Books & Stationery,10,SKU0002,https://placekitten.com/541/574,228.81,147.88
+3,Home Decor,36,SKU0003,https://placeimg.com/447/667/any,383.81,116.28
+4,Health & Beauty,13,SKU0004,https://placekitten.com/376/518,490.58,75.45
+5,Books & Stationery,15,SKU0005,https://www.lorempixel.com/992/12,429.45,126.18
+6,Fashion,48,SKU0006,https://placekitten.com/365/22,241.76,274.46
+7,Automotive,25,SKU0007,https://dummyimage.com/292x610,494.32,238.76
+8,Groceries,32,SKU0008,https://placeimg.com/765/440/any,482.76,42.24
+9,Home Decor,22,SKU0009,https://dummyimage.com/38x184,436.15,262.89
+10,Sports & Outdoors,7,SKU0010,https://placekitten.com/456/939,267.72,139.79
+11,Sports & Outdoors,27,SKU0011,https://dummyimage.com/509x18,436.76,291.14
+12,Automotive,31,SKU0012,https://placeimg.com/545/924/any,392.95,83.18
+13,Toys & Games,45,SKU0013,https://placeimg.com/120/511/any,204.77,28.69
+14,Electronics,44,SKU0014,https://dummyimage.com/919x1,431.08,117.1
+15,Toys & Games,41,SKU0015,https://placeimg.com/601/496/any,362.17,229.02
+16,Sports & Outdoors,3,SKU0016,https://placekitten.com/651/272,312.56,74.26
+17,Kitchen Appliances,15,SKU0017,https://placekitten.com/86/720,375.92,133.02
+18,Sports & Outdoors,49,SKU0018,https://placekitten.com/455/870,320.54,262.41
+19,Sports & Outdoors,11,SKU0019,https://placekitten.com/162/900,350.06,271.51
+20,Kitchen Appliances,21,SKU0020,https://dummyimage.com/570x33,400.11,91.54
+21,Groceries,28,SKU0021,https://dummyimage.com/819x557,81.33,161.69
+22,Home Decor,44,SKU0022,https://placeimg.com/243/721/any,398.33,55.15
+23,Automotive,40,SKU0023,https://placekitten.com/1020/509,436.71,187.81
+24,Kitchen Appliances,32,SKU0024,https://placeimg.com/566/819/any,457.29,47.22
+25,Health & Beauty,41,SKU0025,https://dummyimage.com/311x404,134.45,80.32
+26,Kitchen Appliances,30,SKU0026,https://www.lorempixel.com/472/876,451.59,204.9
+27,Groceries,5,SKU0027,https://placeimg.com/780/825/any,226.45,106.94
+28,Electronics,20,SKU0028,https://www.lorempixel.com/835/581,323.08,130.17
+29,Groceries,30,SKU0029,https://placekitten.com/264/763,424.2,63.77
+30,Sports & Outdoors,31,SKU0030,https://dummyimage.com/992x356,62.26,117.5
+31,Automotive,37,SKU0031,https://dummyimage.com/103x525,154.98,211.29
+32,Books & Stationery,43,SKU0032,https://dummyimage.com/792x377,203.94,7.39
+33,Electronics,39,SKU0033,https://www.lorempixel.com/841/263,375.13,250.69
+34,Books & Stationery,50,SKU0034,https://placeimg.com/786/853/any,401.44,184.08
+35,Toys & Games,15,SKU0035,https://placeimg.com/148/929/any,321.94,188.16
+36,Health & Beauty,41,SKU0036,https://placekitten.com/362/387,57.61,190.1
+37,Electronics,20,SKU0037,https://dummyimage.com/772x316,396.42,14.84
+38,Automotive,47,SKU0038,https://placeimg.com/441/656/any,74.39,273.34
+39,Sports & Outdoors,48,SKU0039,https://placeimg.com/818/950/any,213.6,64.23
+40,Books & Stationery,24,SKU0040,https://placekitten.com/923/383,270.12,274.48
+41,Automotive,17,SKU0041,https://placekitten.com/888/25,457.88,283.54
+42,Kitchen Appliances,48,SKU0042,https://placekitten.com/248/505,436.49,242.25
+43,Health & Beauty,5,SKU0043,https://placekitten.com/353/100,78.97,290.12
+44,Books & Stationery,36,SKU0044,https://placekitten.com/505/195,189.23,238.25
+45,Books & Stationery,17,SKU0045,https://www.lorempixel.com/409/388,272.92,139.16
+46,Books & Stationery,38,SKU0046,https://placeimg.com/316/258/any,196.7,193.37
+47,Health & Beauty,7,SKU0047,https://www.lorempixel.com/20/60,340.67,144.09
+48,Books & Stationery,36,SKU0048,https://placekitten.com/136/593,170.72,184.97
+49,Home Decor,41,SKU0049,https://placeimg.com/101/955/any,413.69,273.27
+50,Sports & Outdoors,42,SKU0050,https://placekitten.com/300/137,210.06,46.23
+51,Sports & Outdoors,20,SKU0051,https://placekitten.com/464/69,498,39.26
+52,Home Decor,35,SKU0052,https://placekitten.com/144/445,76.48,138.82
+53,Toys & Games,27,SKU0053,https://dummyimage.com/242x34,297.8,219.35
+54,Books & Stationery,42,SKU0054,https://dummyimage.com/1015x658,58.52,149.36
+55,Kitchen Appliances,18,SKU0055,https://www.lorempixel.com/962/271,26.03,114.31
+56,Health & Beauty,29,SKU0056,https://placeimg.com/890/670/any,475.77,257.36
+57,Sports & Outdoors,44,SKU0057,https://dummyimage.com/608x327,189.99,271
+58,Electronics,4,SKU0058,https://placekitten.com/607/23,205.09,60.99
+59,Health & Beauty,30,SKU0059,https://dummyimage.com/309x113,54.92,67.57
+60,Health & Beauty,2,SKU0060,https://dummyimage.com/478x689,34.78,103.39
+61,Home Decor,37,SKU0061,https://placeimg.com/63/992/any,110.55,249.8
+62,Sports & Outdoors,14,SKU0062,https://placekitten.com/876/209,297.33,244.85
+63,Books & Stationery,22,SKU0063,https://www.lorempixel.com/820/256,389.44,237.65
+64,Toys & Games,1,SKU0064,https://dummyimage.com/757x823,145.86,295.29
+65,Automotive,35,SKU0065,https://placeimg.com/8/174/any,132.82,56.48
+66,Groceries,9,SKU0066,https://www.lorempixel.com/746/503,17.28,238.05
+67,Fashion,38,SKU0067,https://placeimg.com/918/836/any,168.65,56.4
+68,Books & Stationery,9,SKU0068,https://placekitten.com/205/881,373.44,160.2
+69,Home Decor,31,SKU0069,https://placekitten.com/983/313,229.65,111.8
+70,Automotive,7,SKU0070,https://dummyimage.com/13x634,231.48,70.36
+71,Sports & Outdoors,3,SKU0071,https://placekitten.com/629/1005,366.35,273.08
+72,Groceries,20,SKU0072,https://placekitten.com/246/334,234.44,289.39
+73,Books & Stationery,31,SKU0073,https://dummyimage.com/461x148,425.18,130.75
+74,Health & Beauty,32,SKU0074,https://placeimg.com/987/646/any,359.08,135.85
+75,Automotive,21,SKU0075,https://www.lorempixel.com/198/26,308.07,24.38
+76,Kitchen Appliances,40,SKU0076,https://placeimg.com/1016/1003/any,320.21,166.77
+77,Toys & Games,25,SKU0077,https://www.lorempixel.com/402/347,497.37,161.51
+78,Groceries,33,SKU0078,https://www.lorempixel.com/1016/716,306.66,34.26
+79,Toys & Games,42,SKU0079,https://www.lorempixel.com/462/858,328.95,231.84
+80,Fashion,28,SKU0080,https://dummyimage.com/367x92,231.26,72.41
+81,Groceries,30,SKU0081,https://dummyimage.com/683x145,205.38,220.24
+82,Books & Stationery,28,SKU0082,https://dummyimage.com/991x396,163.14,80.19
+83,Health & Beauty,44,SKU0083,https://dummyimage.com/941x82,462.26,24.8
+84,Kitchen Appliances,6,SKU0084,https://placekitten.com/610/376,221.62,224.65
+85,Books & Stationery,9,SKU0085,https://placeimg.com/635/563/any,282.62,178.01
+86,Home Decor,36,SKU0086,https://placekitten.com/586/0,171.53,41.06
+87,Automotive,43,SKU0087,https://www.lorempixel.com/1010/883,471.15,129.77
+88,Fashion,19,SKU0088,https://dummyimage.com/909x851,304.2,108.74
+89,Health & Beauty,33,SKU0089,https://www.lorempixel.com/461/645,114.24,198.74
+90,Toys & Games,7,SKU0090,https://placeimg.com/10/963/any,181.56,169.1
+91,Toys & Games,49,SKU0091,https://www.lorempixel.com/658/156,146.5,71.72
+92,Kitchen Appliances,36,SKU0092,https://placekitten.com/965/69,487.53,246.44
+93,Groceries,44,SKU0093,https://dummyimage.com/183x989,324.92,12.74
+94,Automotive,2,SKU0094,https://www.lorempixel.com/340/710,98.4,212.3
+95,Health & Beauty,22,SKU0095,https://placeimg.com/548/720/any,182,58.51
+96,Sports & Outdoors,37,SKU0096,https://www.lorempixel.com/394/523,332.1,25.53
+97,Sports & Outdoors,6,SKU0097,https://www.lorempixel.com/150/725,375.59,68.46
+98,Groceries,30,SKU0098,https://www.lorempixel.com/705/709,177.04,114.17
+99,Home Decor,50,SKU0099,https://placeimg.com/195/657/any,471.29,180.89
+100,Toys & Games,10,SKU0100,https://placeimg.com/533/555/any,87.13,187.26

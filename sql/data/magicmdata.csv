@@ -1,0 +1,1001 @@
+﻿OrderID,PaymentID,Payment_Type,Payment_Value
+903,1,Credit Card,466.79
+327,2,Bank Transfer,1440.3
+124,3,Credit Card,334.99
+651,4,Credit Card,1499.63
+938,5,Credit Card,1966.18
+707,6,PayPal,1850.32
+242,7,Credit Card,1728.48
+458,8,Crypto,1213.53
+336,9,Crypto,494.05
+647,10,Bank Transfer,1485.5
+274,11,Crypto,70.05
+864,12,PayPal,643.1
+588,13,Credit Card,1362.17
+269,14,Crypto,1879.35
+949,15,Credit Card,1187.96
+928,16,PayPal,1023.34
+843,17,Crypto,1916.68
+931,18,PayPal,1099.18
+633,19,Bank Transfer,1867.54
+288,20,Credit Card,1023.16
+492,21,Bank Transfer,1265.34
+431,22,Bank Transfer,1370.16
+132,23,Bank Transfer,61.64
+714,24,PayPal,1944
+11,25,Crypto,387.53
+702,26,PayPal,293.2
+814,27,Credit Card,1252.25
+595,28,Crypto,1078.72
+278,29,PayPal,1979.68
+953,30,Crypto,423.39
+662,31,Bank Transfer,682.98
+241,32,Crypto,1059.86
+631,33,Crypto,1753.53
+252,34,Bank Transfer,1453.59
+279,35,Crypto,1364.75
+474,36,PayPal,975.96
+232,37,Credit Card,1512.69
+353,38,Credit Card,182.46
+549,39,Bank Transfer,444.85
+698,40,Crypto,679.87
+190,41,Bank Transfer,1918.1
+69,42,Credit Card,1265.85
+440,43,Credit Card,589.74
+269,44,Credit Card,739.03
+706,45,PayPal,1222.85
+882,46,Credit Card,850.9
+646,47,Bank Transfer,1780.76
+382,48,Crypto,1811.1
+784,49,Crypto,868.9
+160,50,Bank Transfer,939.02
+438,51,Bank Transfer,627.19
+150,52,Credit Card,204.85
+326,53,Bank Transfer,1355.59
+624,54,PayPal,1806.02
+522,55,Bank Transfer,430.22
+445,56,PayPal,624.71
+756,57,Credit Card,1429.79
+24,58,Crypto,623.75
+744,59,Crypto,120.71
+453,60,PayPal,1970.4
+460,61,PayPal,235.2
+741,62,Bank Transfer,1619.13
+631,63,Credit Card,164.02
+357,64,Bank Transfer,772.68
+817,65,Crypto,852.57
+817,66,Bank Transfer,1138.26
+765,67,PayPal,1508.97
+38,68,PayPal,1551.63
+390,69,PayPal,446.44
+621,70,Credit Card,835.92
+899,71,Credit Card,538.28
+61,72,Bank Transfer,1704.91
+839,73,PayPal,1546.91
+527,74,Bank Transfer,321.84
+114,75,Bank Transfer,576.65
+977,76,PayPal,713.38
+387,77,Crypto,533.05
+652,78,Credit Card,1178.36
+260,79,Bank Transfer,1168.95
+267,80,Bank Transfer,1068.63
+933,81,Crypto,405.54
+243,82,Credit Card,523.34
+589,83,Crypto,104.58
+736,84,Crypto,675.24
+233,85,Bank Transfer,1817.21
+887,86,Bank Transfer,1623.42
+97,87,Crypto,1734.95
+883,88,Bank Transfer,1396.38
+448,89,Bank Transfer,1252.14
+399,90,PayPal,34.07
+954,91,Credit Card,1034.45
+808,92,PayPal,929.97
+257,93,Crypto,1026.59
+68,94,PayPal,842.92
+989,95,PayPal,781
+822,96,Crypto,678.77
+14,97,Bank Transfer,534.1
+68,98,PayPal,109.54
+463,99,PayPal,1671.14
+679,100,Bank Transfer,451.23
+305,101,Credit Card,378.4
+679,102,Bank Transfer,1551.16
+754,103,PayPal,1485.02
+838,104,Credit Card,906.44
+257,105,Credit Card,834.43
+100,106,Crypto,430.44
+834,107,PayPal,863.02
+242,108,PayPal,671.04
+847,109,Crypto,1181.08
+434,110,Crypto,1959.08
+5,111,Crypto,322.73
+751,112,Bank Transfer,219.15
+505,113,Crypto,205.54
+480,114,Crypto,995.04
+506,115,Bank Transfer,696.45
+657,116,PayPal,1828.84
+904,117,PayPal,1144.52
+95,118,Credit Card,1672.07
+271,119,Crypto,601.31
+544,120,Bank Transfer,731.12
+702,121,Credit Card,25.26
+880,122,Crypto,1120.44
+116,123,Crypto,458.77
+994,124,Bank Transfer,1086.53
+12,125,Bank Transfer,387.24
+508,126,Crypto,480.12
+110,127,Credit Card,75.39
+453,128,Credit Card,1387.76
+424,129,Bank Transfer,51.06
+765,130,Credit Card,1078.52
+607,131,PayPal,876.95
+614,132,Bank Transfer,884.67
+280,133,PayPal,645.61
+190,134,Crypto,1099.54
+352,135,Crypto,879.09
+393,136,Crypto,612.43
+117,137,Crypto,308.54
+40,138,Crypto,609.75
+277,139,Crypto,1195.49
+650,140,Bank Transfer,1712.58
+690,141,Credit Card,1834.37
+786,142,Crypto,45.27
+841,143,Credit Card,310.08
+799,144,PayPal,1178.06
+197,145,Bank Transfer,1462.35
+911,146,PayPal,21.99
+151,147,PayPal,232.36
+22,148,Crypto,1016.52
+966,149,Bank Transfer,661.97
+815,150,Credit Card,885.79
+345,151,PayPal,570.86
+74,152,PayPal,832.19
+695,153,Bank Transfer,424.76
+129,154,Bank Transfer,128.48
+339,155,PayPal,271.21
+10,156,Crypto,1530.81
+126,157,Crypto,181.59
+894,158,Bank Transfer,806.28
+523,159,Bank Transfer,430.07
+196,160,Bank Transfer,1876.16
+562,161,Credit Card,1133.34
+747,162,Crypto,57.4
+841,163,PayPal,1240.73
+131,164,Credit Card,1162.24
+233,165,Crypto,1384.2
+774,166,Credit Card,413.8
+499,167,Bank Transfer,1594.5
+725,168,Bank Transfer,804.38
+462,169,Crypto,1017.56
+190,170,Credit Card,85.75
+337,171,Bank Transfer,1990.22
+739,172,Crypto,306.45
+148,173,Bank Transfer,193.31
+515,174,Bank Transfer,416.96
+222,175,Bank Transfer,1893.56
+889,176,PayPal,724.09
+523,177,Bank Transfer,1989.56
+621,178,PayPal,1522
+474,179,Credit Card,1728.33
+268,180,Bank Transfer,690.89
+235,181,Crypto,510.32
+612,182,Bank Transfer,402.06
+301,183,Credit Card,293.68
+7,184,Credit Card,344.84
+705,185,Crypto,1988.47
+801,186,Crypto,541.35
+880,187,Bank Transfer,30.24
+726,188,PayPal,1750.41
+994,189,Crypto,619.34
+851,190,Credit Card,1169.75
+59,191,PayPal,296.97
+325,192,Bank Transfer,695.22
+326,193,Credit Card,1916.98
+588,194,Bank Transfer,1546.49
+34,195,PayPal,1023.94
+612,196,Bank Transfer,157.04
+846,197,Bank Transfer,1048.68
+464,198,Crypto,1942.26
+804,199,Crypto,232.82
+831,200,PayPal,1600.47
+835,201,Bank Transfer,1376.58
+422,202,Crypto,112.27
+429,203,PayPal,1266.14
+479,204,Credit Card,546.5
+651,205,Crypto,993.76
+838,206,Bank Transfer,905.39
+773,207,Crypto,470.07
+603,208,Credit Card,1506.31
+962,209,Bank Transfer,1459.7
+472,210,PayPal,570.43
+760,211,Bank Transfer,1247.36
+921,212,Credit Card,1653.67
+942,213,Credit Card,1202.78
+745,214,Credit Card,520.74
+362,215,Credit Card,1686.27
+171,216,Crypto,1489.62
+44,217,Crypto,1707.54
+996,218,PayPal,1889.83
+366,219,Bank Transfer,928.92
+566,220,Crypto,391.23
+920,221,Crypto,558.28
+474,222,Bank Transfer,28.31
+875,223,Bank Transfer,227.56
+777,224,Crypto,54.79
+584,225,Credit Card,1379.6
+761,226,Crypto,1089.67
+347,227,Credit Card,802.91
+172,228,PayPal,637.26
+456,229,Crypto,858.97
+478,230,Bank Transfer,1346.22
+244,231,Credit Card,78.53
+659,232,PayPal,1797.38
+816,233,Crypto,1551.32
+268,234,PayPal,1132.45
+858,235,Bank Transfer,51.34
+33,236,PayPal,1156.92
+709,237,PayPal,47.09
+33,238,Bank Transfer,349.31
+68,239,Bank Transfer,1799.77
+179,240,PayPal,299.54
+246,241,Crypto,937.75
+18,242,Crypto,391.65
+424,243,Crypto,1223.53
+430,244,Bank Transfer,849.75
+693,245,PayPal,606.11
+860,246,Bank Transfer,239.12
+733,247,Crypto,578.82
+178,248,Crypto,1604.54
+237,249,Credit Card,920.67
+401,250,Credit Card,484.51
+273,251,PayPal,489.45
+675,252,PayPal,1782.07
+248,253,Credit Card,816.11
+326,254,Credit Card,896.61
+993,255,Crypto,1485.21
+692,256,Bank Transfer,1247.79
+875,257,Credit Card,1621.11
+202,258,Credit Card,855.45
+764,259,Bank Transfer,467.86
+286,260,Crypto,809.34
+19,261,Crypto,1550.98
+260,262,Bank Transfer,1129.02
+616,263,PayPal,1581.56
+841,264,Credit Card,1445.61
+755,265,Credit Card,1901.78
+548,266,Bank Transfer,67.79
+472,267,Credit Card,1342.58
+846,268,Bank Transfer,605.06
+109,269,Crypto,942.03
+990,270,PayPal,1293.71
+996,271,Crypto,140.91
+88,272,Credit Card,1548.87
+472,273,Bank Transfer,1892.34
+369,274,Crypto,1163.44
+153,275,Bank Transfer,971.89
+955,276,Crypto,1505.36
+336,277,Crypto,517.52
+448,278,PayPal,129.16
+338,279,Credit Card,1843.88
+437,280,Bank Transfer,1352.97
+716,281,Crypto,233.27
+535,282,Bank Transfer,1989.82
+620,283,Bank Transfer,1675.03
+476,284,Crypto,1555.46
+564,285,Bank Transfer,1951.05
+64,286,Bank Transfer,542.52
+266,287,Crypto,1266.99
+92,288,Bank Transfer,121.65
+618,289,Credit Card,1570.64
+738,290,Crypto,1815.65
+630,291,PayPal,1665.53
+966,292,Crypto,472.54
+727,293,Crypto,1043.94
+501,294,Crypto,1475.34
+951,295,Crypto,348.06
+324,296,PayPal,1208.07
+684,297,PayPal,139.58
+168,298,Bank Transfer,1090.77
+423,299,Crypto,1940.59
+750,300,PayPal,1183.42
+819,301,PayPal,447.63
+325,302,Bank Transfer,1886.01
+514,303,PayPal,859.19
+608,304,Bank Transfer,1192.04
+836,305,Crypto,1287.44
+489,306,PayPal,359.8
+199,307,Crypto,1140.08
+24,308,Crypto,1505.34
+468,309,Crypto,615.62
+508,310,PayPal,1524.83
+640,311,Bank Transfer,1113.94
+450,312,Credit Card,1020.89
+933,313,Credit Card,1149.17
+598,314,PayPal,580.73
+493,315,PayPal,608.98
+272,316,PayPal,1489.53
+875,317,Credit Card,1137.58
+337,318,PayPal,1612.11
+91,319,Bank Transfer,1600.64
+797,320,Crypto,1419.51
+959,321,Credit Card,681.96
+918,322,PayPal,1595.75
+441,323,Credit Card,440.94
+446,324,Crypto,1848
+870,325,Credit Card,1337.23
+850,326,Credit Card,913.88
+319,327,Credit Card,696.87
+678,328,Crypto,1334.46
+890,329,Crypto,794.08
+262,330,Crypto,1267.78
+141,331,Bank Transfer,745.52
+797,332,Crypto,1792.9
+62,333,Bank Transfer,1463.96
+598,334,PayPal,160.62
+987,335,Crypto,851.38
+279,336,PayPal,319.15
+326,337,Credit Card,527.47
+623,338,Credit Card,1033.59
+466,339,Crypto,1308.69
+572,340,PayPal,1919.7
+948,341,Bank Transfer,259.46
+984,342,Crypto,1226.29
+505,343,Bank Transfer,1514.89
+635,344,Crypto,408.42
+734,345,PayPal,1013.71
+365,346,Crypto,1878.21
+314,347,Bank Transfer,1309.9
+771,348,Credit Card,1983.76
+965,349,Crypto,1216.03
+282,350,Bank Transfer,1496.63
+772,351,Bank Transfer,1933.93
+494,352,PayPal,476.42
+620,353,Credit Card,1685.72
+357,354,Bank Transfer,20.03
+843,355,Bank Transfer,911.4
+632,356,Crypto,1474.38
+770,357,Bank Transfer,65.21
+845,358,Crypto,732.17
+557,359,Crypto,1027.29
+73,360,Crypto,74.56
+422,361,PayPal,1130.03
+168,362,PayPal,949.53
+883,363,PayPal,1538.34
+380,364,Credit Card,984.82
+44,365,PayPal,1437.28
+761,366,Credit Card,1056.67
+112,367,PayPal,349.01
+464,368,PayPal,81.31
+373,369,Bank Transfer,1284.24
+284,370,Crypto,820.91
+905,371,Crypto,500.84
+1,372,Credit Card,209.91
+594,373,PayPal,456.5
+112,374,Crypto,157.35
+82,375,PayPal,1491.14
+43,376,Crypto,936.91
+501,377,Bank Transfer,1456.6
+377,378,Bank Transfer,930.32
+571,379,Credit Card,934.81
+655,380,Bank Transfer,565.36
+178,381,Credit Card,32.19
+226,382,PayPal,1248.65
+271,383,PayPal,508.16
+164,384,Credit Card,1332.95
+781,385,Crypto,797.18
+117,386,Credit Card,639.58
+956,387,PayPal,281.58
+413,388,PayPal,1035.16
+425,389,PayPal,41.28
+101,390,Crypto,899.13
+676,391,Crypto,1517.07
+635,392,Bank Transfer,1828.69
+58,393,Crypto,1852.75
+772,394,Bank Transfer,1743.02
+708,395,Crypto,1739.07
+591,396,Credit Card,505.52
+711,397,PayPal,1454
+949,398,Credit Card,1753.21
+329,399,Crypto,1463.23
+674,400,Credit Card,454.69
+548,401,PayPal,1728.22
+864,402,Credit Card,1492.25
+879,403,Bank Transfer,1318.78
+976,404,Bank Transfer,951.78
+920,405,Bank Transfer,1432.84
+777,406,PayPal,1546.93
+75,407,Crypto,1556.72
+141,408,Bank Transfer,1608.4
+173,409,Bank Transfer,375.41
+781,410,Bank Transfer,1856.72
+281,411,Credit Card,1406.97
+871,412,PayPal,687.13
+428,413,Credit Card,743.36
+274,414,Crypto,247.7
+314,415,Crypto,1767.55
+377,416,Credit Card,1413.72
+145,417,Credit Card,453.95
+226,418,Bank Transfer,855.98
+778,419,PayPal,1220.78
+121,420,Credit Card,1776.61
+362,421,PayPal,1200.31
+19,422,Crypto,55.82
+602,423,Credit Card,257.14
+332,424,Credit Card,467.2
+185,425,Crypto,1179.42
+763,426,Crypto,78.91
+93,427,Crypto,482.16
+73,428,PayPal,211.32
+836,429,Crypto,1916.63
+741,430,Crypto,377.16
+462,431,Bank Transfer,253.3
+981,432,Crypto,1002.92
+840,433,PayPal,1460.52
+213,434,Credit Card,1134.78
+676,435,PayPal,516.19
+899,436,Crypto,455.09
+450,437,PayPal,509.69
+718,438,PayPal,1651.46
+612,439,Crypto,1861.87
+462,440,Bank Transfer,131.64
+336,441,Bank Transfer,140.32
+127,442,Credit Card,1069.65
+472,443,Bank Transfer,1332.87
+202,444,Crypto,615.95
+979,445,Crypto,1603.96
+725,446,PayPal,1186.46
+514,447,PayPal,1904.51
+412,448,Credit Card,170.61
+957,449,Credit Card,1922.74
+444,450,Crypto,735.29
+73,451,PayPal,1284.04
+135,452,PayPal,1514.7
+167,453,PayPal,980.77
+810,454,PayPal,1407.5
+826,455,Credit Card,870.47
+501,456,Bank Transfer,1711.28
+345,457,PayPal,1367.19
+985,458,PayPal,170.08
+333,459,PayPal,590.73
+636,460,Crypto,1234.83
+103,461,PayPal,1354.73
+221,462,Crypto,171.5
+52,463,Crypto,1067.76
+57,464,PayPal,1800.14
+897,465,Credit Card,1858.17
+505,466,Bank Transfer,605.29
+645,467,PayPal,1820.74
+655,468,Credit Card,748.82
+314,469,PayPal,825.95
+92,470,Bank Transfer,1748.1
+112,471,Credit Card,933.66
+123,472,PayPal,670.69
+961,473,PayPal,1281.67
+532,474,Crypto,460.01
+664,475,Bank Transfer,539.26
+765,476,PayPal,1612.08
+233,477,Crypto,51.12
+950,478,Bank Transfer,591.12
+644,479,Crypto,394.12
+570,480,Credit Card,726.09
+247,481,PayPal,675.48
+202,482,Credit Card,690.22
+695,483,Crypto,535.53
+946,484,Bank Transfer,1190.12
+839,485,PayPal,482.35
+13,486,Crypto,739.86
+198,487,Credit Card,358.31
+349,488,Bank Transfer,167.64
+942,489,PayPal,621.89
+970,490,Credit Card,1299.21
+858,491,Credit Card,1154.87
+108,492,Credit Card,290.81
+12,493,Crypto,1174.33
+986,494,PayPal,300.82
+895,495,PayPal,1535.7
+763,496,Crypto,55.95
+158,497,Bank Transfer,1930.98
+68,498,Credit Card,921.77
+571,499,Credit Card,1339.11
+34,500,Credit Card,1227.19
+494,501,Bank Transfer,1409.27
+497,502,Bank Transfer,1768.16
+125,503,Crypto,1384.36
+743,504,Crypto,601.7
+473,505,Bank Transfer,1494.56
+553,506,Bank Transfer,211.59
+17,507,PayPal,609.59
+671,508,Bank Transfer,30.7
+379,509,Bank Transfer,568.05
+862,510,Bank Transfer,1168.75
+117,511,Bank Transfer,903.48
+588,512,Crypto,155.1
+853,513,Bank Transfer,958.47
+164,514,Crypto,771.8
+922,515,Bank Transfer,1508.26
+661,516,PayPal,796.9
+262,517,Crypto,608.89
+387,518,Bank Transfer,1633.16
+656,519,PayPal,1870.85
+22,520,Crypto,544.48
+612,521,Credit Card,1633.95
+850,522,Bank Transfer,1606.97
+975,523,PayPal,566.66
+908,524,Credit Card,1635.49
+653,525,Crypto,1129.78
+154,526,Bank Transfer,281.4
+214,527,Crypto,1549.81
+466,528,Crypto,735.93
+741,529,PayPal,947.32
+107,530,Bank Transfer,1114.77
+218,531,Credit Card,154.12
+341,532,Bank Transfer,1140.05
+562,533,Crypto,1768.23
+549,534,Bank Transfer,149.9
+225,535,Crypto,1513.57
+731,536,Bank Transfer,739.73
+666,537,Credit Card,1925.56
+909,538,Crypto,768.26
+905,539,PayPal,643.63
+461,540,Bank Transfer,886.98
+303,541,Credit Card,900.08
+255,542,Bank Transfer,1262.5
+927,543,Bank Transfer,1003.12
+56,544,Credit Card,914.5
+866,545,PayPal,156.9
+374,546,Bank Transfer,1989.32
+895,547,Credit Card,996.99
+262,548,Bank Transfer,605.86
+662,549,Credit Card,1200.58
+674,550,PayPal,1439.26
+935,551,Bank Transfer,471.06
+995,552,Credit Card,1942.81
+796,553,PayPal,379.79
+814,554,PayPal,486.28
+570,555,Bank Transfer,1459.23
+832,556,Credit Card,390.29
+664,557,Crypto,361.35
+240,558,PayPal,1164.48
+960,559,PayPal,66.09
+375,560,PayPal,277.75
+524,561,PayPal,1510.07
+328,562,PayPal,683.53
+960,563,Bank Transfer,1753.68
+423,564,Bank Transfer,199.61
+852,565,Crypto,423.65
+475,566,Credit Card,1066.1
+930,567,Credit Card,1423.72
+261,568,Credit Card,615.05
+713,569,PayPal,1737.17
+126,570,Crypto,1341.26
+21,571,PayPal,1919.15
+187,572,Credit Card,193.93
+517,573,PayPal,493.94
+52,574,Bank Transfer,160.96
+441,575,Bank Transfer,330.56
+982,576,Bank Transfer,1940.3
+447,577,PayPal,1996.78
+44,578,Credit Card,1229.83
+380,579,Credit Card,901.55
+802,580,Credit Card,863.59
+223,581,Bank Transfer,843.88
+941,582,Credit Card,1367.19
+409,583,PayPal,768.77
+226,584,Credit Card,1014.51
+386,585,Bank Transfer,1142.05
+74,586,Bank Transfer,1166.37
+512,587,Bank Transfer,1312.99
+124,588,Bank Transfer,540.18
+119,589,Crypto,1385.24
+775,590,PayPal,1783.28
+261,591,Bank Transfer,1316.31
+984,592,Bank Transfer,1291.21
+785,593,Crypto,647.93
+326,594,Crypto,1569.26
+994,595,Bank Transfer,28.45
+648,596,PayPal,572.46
+129,597,Bank Transfer,1182.04
+828,598,Crypto,1167.55
+546,599,Credit Card,1482.94
+972,600,Credit Card,1183.75
+747,601,Credit Card,775.71
+556,602,Bank Transfer,1868.81
+440,603,Credit Card,1838.13
+46,604,Bank Transfer,551.85
+346,605,Bank Transfer,1599.18
+841,606,PayPal,194.87
+2,607,Bank Transfer,428.68
+315,608,Credit Card,957.18
+709,609,Credit Card,638.73
+574,610,Bank Transfer,1208.76
+665,611,Crypto,1513.47
+769,612,PayPal,1345.47
+75,613,Crypto,776.96
+914,614,Credit Card,1992.94
+645,615,Crypto,1279.51
+918,616,Credit Card,776.61
+288,617,PayPal,1346.27
+204,618,Credit Card,1044.51
+147,619,Crypto,1262.42
+818,620,Credit Card,366.15
+351,621,Crypto,498.16
+160,622,Crypto,1979.77
+820,623,Credit Card,1691.1
+172,624,Bank Transfer,1011.23
+693,625,Bank Transfer,1043.39
+939,626,Credit Card,1438.26
+142,627,PayPal,105.29
+797,628,Bank Transfer,1455.43
+13,629,Bank Transfer,691.56
+715,630,PayPal,1821.9
+262,631,Credit Card,862.26
+844,632,Crypto,13.41
+23,633,Credit Card,1389.87
+108,634,Credit Card,1673.44
+832,635,Crypto,180.26
+677,636,Credit Card,1674.73
+532,637,Crypto,881.16
+14,638,PayPal,901.73
+695,639,PayPal,939.57
+79,640,Credit Card,920.43
+843,641,PayPal,1363.13
+967,642,Crypto,620.19
+207,643,Credit Card,673.55
+179,644,Bank Transfer,1518.62
+838,645,PayPal,1521.46
+29,646,Credit Card,1701.86
+721,647,Crypto,475.46
+824,648,Credit Card,1166.37
+200,649,Bank Transfer,153.49
+974,650,PayPal,839.92
+67,651,Credit Card,1482
+813,652,Credit Card,1417.46
+235,653,PayPal,1693.2
+803,654,Bank Transfer,330.3
+208,655,PayPal,1199.55
+153,656,PayPal,1435.99
+963,657,PayPal,932.77
+435,658,Credit Card,1461.59
+618,659,Bank Transfer,1374.7
+764,660,PayPal,1976.57
+27,661,PayPal,929.73
+964,662,Credit Card,1451.51
+661,663,Crypto,1352.03
+294,664,Bank Transfer,1861.22
+171,665,PayPal,1841.74
+747,666,Credit Card,973.46
+264,667,Crypto,1822.23
+703,668,Bank Transfer,904.95
+227,669,PayPal,638.56
+753,670,Credit Card,1388.06
+505,671,PayPal,724.36
+539,672,Credit Card,707.21
+904,673,Crypto,1080.59
+533,674,Bank Transfer,1028.19
+634,675,Crypto,1601.58
+126,676,Crypto,1050.44
+335,677,PayPal,772.87
+13,678,Crypto,1930.03
+429,679,PayPal,1078.23
+525,680,PayPal,225.42
+883,681,Credit Card,1059.55
+170,682,PayPal,1899.27
+2,683,Crypto,1206.33
+871,684,PayPal,1088.43
+858,685,PayPal,1107.04
+404,686,PayPal,726.9
+138,687,Crypto,1131.15
+582,688,Crypto,1475.52
+119,689,Crypto,1925.4
+660,690,Crypto,972.67
+691,691,Credit Card,148.13
+533,692,Crypto,285.21
+88,693,PayPal,431.5
+537,694,Credit Card,1217.73
+625,695,Bank Transfer,359.25
+877,696,Credit Card,539.71
+893,697,Credit Card,1910.4
+397,698,Credit Card,1802.52
+920,699,Bank Transfer,430.68
+95,700,Bank Transfer,1605.52
+148,701,Bank Transfer,1471.81
+171,702,PayPal,36.04
+921,703,Crypto,113.58
+965,704,PayPal,1397.4
+529,705,Bank Transfer,147
+337,706,Credit Card,1760.29
+58,707,Bank Transfer,1391.98
+594,708,PayPal,457.8
+766,709,PayPal,296.12
+540,710,Bank Transfer,575.71
+503,711,Credit Card,1095.03
+614,712,PayPal,767.75
+328,713,Credit Card,1329.89
+753,714,Bank Transfer,151.51
+961,715,PayPal,51.66
+570,716,Bank Transfer,1615.86
+778,717,PayPal,383.39
+961,718,PayPal,403.3
+69,719,Crypto,1861.3
+846,720,Credit Card,1140.48
+900,721,Credit Card,1341.96
+524,722,PayPal,1821.1
+299,723,Credit Card,1267.28
+733,724,Bank Transfer,1039.31
+52,725,Crypto,188.27
+785,726,Credit Card,1498.73
+212,727,Credit Card,1824.14
+494,728,PayPal,1568.73
+374,729,Crypto,1130.89
+795,730,Bank Transfer,335.84
+821,731,PayPal,826.09
+492,732,Bank Transfer,1733.61
+370,733,Crypto,1483.82
+331,734,Credit Card,1221.2
+90,735,Crypto,258.44
+130,736,Crypto,1856.02
+560,737,Bank Transfer,1147.2
+404,738,Bank Transfer,1787.09
+852,739,Bank Transfer,1988.49
+634,740,Crypto,1714.45
+780,741,PayPal,1380.01
+768,742,PayPal,1156.34
+180,743,PayPal,565.35
+465,744,PayPal,905.66
+324,745,Credit Card,433.66
+948,746,Bank Transfer,1296.94
+100,747,Crypto,183.36
+402,748,Credit Card,852.87
+112,749,Credit Card,1195.72
+171,750,Credit Card,516.92
+384,751,PayPal,1614.93
+197,752,Credit Card,1234.14
+176,753,Bank Transfer,744.19
+976,754,PayPal,207.23
+66,755,PayPal,1305.52
+434,756,Bank Transfer,468.3
+256,757,PayPal,521.24
+258,758,PayPal,120.88
+61,759,Crypto,1922.88
+995,760,Bank Transfer,920.25
+340,761,PayPal,1506.18
+749,762,Credit Card,1730.58
+556,763,Bank Transfer,1374.87
+527,764,Credit Card,1003.23
+959,765,Crypto,1441.79
+695,766,Bank Transfer,1283.47
+490,767,Credit Card,817.43
+58,768,Credit Card,1945.83
+797,769,Credit Card,1794.21
+82,770,PayPal,108.46
+749,771,Bank Transfer,652.82
+304,772,Bank Transfer,1736.41
+369,773,Credit Card,793.54
+211,774,Crypto,997.01
+829,775,Bank Transfer,57.7
+313,776,Crypto,1553.29
+210,777,Credit Card,1390.72
+236,778,Credit Card,1957.27
+55,779,Credit Card,1994.24
+604,780,Crypto,1732.64
+478,781,Bank Transfer,371.12
+833,782,Crypto,1252.57
+479,783,Credit Card,242.26
+734,784,Bank Transfer,1288.1
+555,785,PayPal,780.95
+596,786,Bank Transfer,1106.45
+33,787,PayPal,531.35
+619,788,Credit Card,1647.53
+916,789,PayPal,989.92
+368,790,Credit Card,634.92
+386,791,Crypto,1119.28
+55,792,Credit Card,795.96
+175,793,Credit Card,1031.05
+564,794,Credit Card,686.65
+94,795,Crypto,1273.7
+443,796,Crypto,1928.35
+43,797,PayPal,92.27
+288,798,PayPal,90.32
+41,799,PayPal,454.82
+738,800,Bank Transfer,1090.16
+78,801,PayPal,144.33
+336,802,PayPal,1167.36
+78,803,PayPal,1287.04
+179,804,PayPal,1784.6
+101,805,PayPal,1021.55
+704,806,Bank Transfer,1368.28
+8,807,Crypto,391
+930,808,Credit Card,711.24
+508,809,Bank Transfer,1487.78
+267,810,Bank Transfer,1904.57
+362,811,Crypto,238.73
+675,812,Crypto,1700.42
+158,813,Credit Card,245.1
+809,814,Crypto,125.58
+180,815,Crypto,1988.68
+154,816,Bank Transfer,509.22
+674,817,Crypto,92.85
+920,818,PayPal,1799.43
+362,819,Credit Card,703.06
+21,820,Crypto,614.5
+173,821,Credit Card,496.02
+878,822,Credit Card,677.42
+587,823,Credit Card,1215.52
+813,824,Crypto,570.98
+957,825,Bank Transfer,1518.48
+84,826,Credit Card,49.45
+297,827,Crypto,1904.4
+165,828,Credit Card,1640.14
+58,829,Bank Transfer,742.02
+922,830,PayPal,1718.97
+269,831,Crypto,625.45
+638,832,Bank Transfer,372.24
+161,833,PayPal,1490.7
+572,834,Credit Card,870.24
+437,835,Bank Transfer,529.15
+782,836,Crypto,1859.64
+200,837,Crypto,1700.3
+597,838,Bank Transfer,1290.11
+636,839,Bank Transfer,849.29
+257,840,PayPal,1277.13
+918,841,PayPal,1707.98
+959,842,PayPal,673.85
+300,843,PayPal,477.94
+815,844,PayPal,46.55
+966,845,Credit Card,1380.75
+105,846,PayPal,1341.68
+289,847,Bank Transfer,810.08
+387,848,Credit Card,1519.48
+775,849,PayPal,1668.39
+661,850,Bank Transfer,1676.79
+524,851,Bank Transfer,1658.37
+404,852,PayPal,875.47
+127,853,Credit Card,1092.12
+564,854,Credit Card,1545.12
+345,855,PayPal,1322.9
+466,856,Credit Card,1323.43
+968,857,Credit Card,488.57
+107,858,PayPal,29.41
+128,859,Credit Card,378.34
+108,860,PayPal,1957.76
+771,861,Crypto,628.55
+660,862,PayPal,100.45
+498,863,Bank Transfer,40.85
+647,864,PayPal,1144.05
+356,865,Bank Transfer,760.61
+197,866,Crypto,489.1
+870,867,Credit Card,1027.67
+135,868,Bank Transfer,1531.03
+459,869,PayPal,357.49
+240,870,Credit Card,1154.52
+829,871,PayPal,1416.68
+149,872,Bank Transfer,1807.66
+615,873,PayPal,357.72
+577,874,PayPal,1795.03
+895,875,Bank Transfer,1366.81
+54,876,Bank Transfer,1491.33
+267,877,Bank Transfer,1194.99
+165,878,Crypto,1638.08
+947,879,Credit Card,332.22
+788,880,Credit Card,958.45
+236,881,Credit Card,1705.86
+235,882,Bank Transfer,1387.05
+902,883,Credit Card,153.87
+219,884,Crypto,1632.56
+333,885,Crypto,1276.24
+46,886,Crypto,312.74
+789,887,PayPal,1571.79
+957,888,Crypto,1635.62
+113,889,Crypto,165.74
+750,890,Credit Card,740.68
+642,891,Credit Card,1957.6
+941,892,Bank Transfer,1423.15
+155,893,Credit Card,47.51
+173,894,PayPal,1543.24
+959,895,PayPal,931.52
+235,896,PayPal,1493.41
+741,897,PayPal,1185.91
+490,898,PayPal,1503.63
+384,899,PayPal,1791.38
+780,900,Credit Card,1116.34
+311,901,PayPal,173.96
+577,902,Crypto,1718.46
+19,903,Credit Card,236.23
+965,904,Bank Transfer,674.77
+6,905,Credit Card,482.05
+567,906,Credit Card,299.22
+32,907,Credit Card,507.37
+911,908,PayPal,875.83
+172,909,Crypto,1147.11
+398,910,Bank Transfer,1196.11
+696,911,Credit Card,1815.35
+539,912,Credit Card,1834.14
+517,913,Bank Transfer,1927.02
+484,914,Crypto,693.72
+152,915,PayPal,1008.19
+725,916,Credit Card,1735.22
+588,917,Credit Card,963.32
+210,918,Bank Transfer,1123.87
+327,919,Crypto,708.24
+483,920,Crypto,1732.94
+571,921,PayPal,1289.06
+321,922,PayPal,1601.59
+96,923,PayPal,888.47
+617,924,Bank Transfer,1533.08
+200,925,Credit Card,1883.46
+658,926,Crypto,783.48
+43,927,PayPal,1044.65
+315,928,PayPal,1341.08
+25,929,PayPal,358.59
+364,930,PayPal,1270.44
+296,931,Bank Transfer,1973.26
+855,932,Crypto,1526.4
+99,933,PayPal,1038.21
+446,934,Bank Transfer,1366.32
+334,935,Credit Card,384.5
+290,936,Bank Transfer,1694.84
+83,937,Crypto,777.46
+200,938,PayPal,1443.94
+449,939,Bank Transfer,109.69
+489,940,Crypto,1611.77
+628,941,PayPal,416.65
+678,942,Bank Transfer,1511.01
+743,943,Crypto,1309.08
+271,944,Crypto,808.73
+583,945,Crypto,255.32
+515,946,PayPal,839.72
+17,947,Crypto,193.28
+317,948,PayPal,1109.97
+655,949,Crypto,1515.77
+145,950,PayPal,1462.97
+382,951,Credit Card,1578.33
+386,952,PayPal,217.3
+695,953,Bank Transfer,1385.21
+669,954,Credit Card,1908.52
+524,955,Crypto,795.28
+467,956,Crypto,1436.89
+230,957,Bank Transfer,211.42
+662,958,Bank Transfer,871.21
+929,959,PayPal,406.33
+798,960,Bank Transfer,1472.05
+898,961,Bank Transfer,496.61
+559,962,PayPal,992.76
+90,963,Credit Card,1093.68
+775,964,Crypto,1137.01
+836,965,Credit Card,56.27
+672,966,Credit Card,248.54
+750,967,Crypto,560.23
+389,968,Bank Transfer,1932.67
+863,969,Credit Card,615.16
+696,970,Credit Card,1698.69
+737,971,Credit Card,987.49
+953,972,Bank Transfer,1454.78
+946,973,Crypto,1934.69
+281,974,Credit Card,549.83
+356,975,Credit Card,311.38
+191,976,PayPal,1066.12
+7,977,Bank Transfer,124.06
+533,978,Crypto,764.96
+751,979,Credit Card,1153.66
+786,980,Crypto,1441.27
+430,981,Bank Transfer,26.96
+25,982,Bank Transfer,1433.58
+42,983,Credit Card,1627.1
+199,984,Crypto,639.15
+602,985,PayPal,1356.38
+961,986,Bank Transfer,1485.13
+98,987,Crypto,829.04
+259,988,Bank Transfer,217.55
+549,989,Crypto,1110.72
+35,990,Crypto,678.2
+689,991,Crypto,498.02
+956,992,Credit Card,814.4
+282,993,Crypto,1303.52
+625,994,Credit Card,1430.98
+418,995,PayPal,271.95
+871,996,Bank Transfer,1156.44
+886,997,PayPal,1368.83
+961,998,Crypto,1739.25
+71,999,PayPal,1226.94
+350,1000,Credit Card,102.66

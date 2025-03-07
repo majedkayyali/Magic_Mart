@@ -1,0 +1,7 @@
+Customers,Orders,Order_Items,Payments,Products,Product_Categories,Sellers,Inventory
+ID (PK),OrderID (PK),OrderItemID (PK),PaymentID (PK),ProductID (PK),CategoryID (PK),SellerID (PK),InventoryID (PK)
+Name,CustomerID (FK),OrderID (FK),OrderID (FK),CategoryID (FK),CategoryName,ZipCode,ProductID (FK)
+Address,OrderStatus,ProductID (FK),PaymentType,Name,,City,Quantity
+Zip Code,PurchaseTimestamp,SellerID (FK),PaymentValue,Description,,State,StockStatus
+City,DeliveryDate,Price,,Weight,,,
+State,,Quantity,,Dimensions,,,
